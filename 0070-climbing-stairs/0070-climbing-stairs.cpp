@@ -1,16 +1,15 @@
 class Solution {
 public:
-   int fibo(int n, vector<int>&dp){
-    if(n<=1){
-        return 1;
-    }
-    if(dp[n]!=-1)
-    return dp[n];
-    return dp[n] =  fibo(n-1,dp) + fibo(n-2,dp);
-    
-   }
     int climbStairs(int n) {
-        vector<int>dp(n+1,-1);
-       return fibo(n,dp);
+        int a=0; int b=1; int c;
+        if(n<=1){
+            return n;
+        }
+        for(int i=1;i<=n;i++){
+            c = a+b;
+            a = b;
+            b = c;
+        }
+        return c;
     }
 };
