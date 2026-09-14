@@ -14,7 +14,7 @@ public:
     void  findsum(TreeNode* root,int &sum){
          if(root->left){
             //leaf check 0
-            if(!(root->left->left || root->left->right)){
+            if((root->left->left==nullptr &&root->left->right==nullptr)){
                 sum+=root->left->val;
             }
             findsum(root->left,sum);
