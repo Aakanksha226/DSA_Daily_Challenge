@@ -18,12 +18,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0404-sum-of-left-leaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0404-sum-of-left-leaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Tree
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0404-sum-of-left-leaves) |
+## Union-Find
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Graph Theory
+|  |
+| ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 <!---LeetCode Topics End-->
