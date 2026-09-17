@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0404-sum-of-left-leaves) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Breadth-First Search
 |  |
@@ -31,9 +32,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Graph Theory
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1319-number-of-operations-to-make-network-connected) |
+## Hash Table
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
