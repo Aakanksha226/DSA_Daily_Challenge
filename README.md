@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
