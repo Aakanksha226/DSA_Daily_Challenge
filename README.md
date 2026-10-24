@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0836-rectangle-overlap) |
+| [2409-count-days-spent-together](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2409-count-days-spent-together) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Geometry
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
