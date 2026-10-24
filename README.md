@@ -69,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
