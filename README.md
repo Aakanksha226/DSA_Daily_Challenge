@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -73,4 +74,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0461-hamming-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0416-partition-equal-subset-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
