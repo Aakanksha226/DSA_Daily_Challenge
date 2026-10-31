@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0416-partition-equal-subset-sum) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0198-house-robber](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0416-partition-equal-subset-sum) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Knapsack Problem
 |  |
 | ------- |
