@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
 ## Bipartite Graph
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
 | [2409-count-days-spent-together](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Knapsack Problem
 |  |
@@ -105,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+## Two Pointers
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
