@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1143-longest-common-subsequence) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
