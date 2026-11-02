@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0836-rectangle-overlap) |
 | [2409-count-days-spent-together](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Geometry
 |  |
