@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -83,12 +84,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0300-longest-increasing-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Bit Manipulation
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Longest Common Subsequence
 |  |
 | ------- |
