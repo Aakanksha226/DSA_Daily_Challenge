@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1143-longest-common-subsequence) |
 | [2409-count-days-spent-together](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/3498-reverse-degree-of-a-string) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
+| [1092-shortest-common-supersequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1143-longest-common-subsequence) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Knapsack Problem
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [1092-shortest-common-supersequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1143-longest-common-subsequence) |
 ## Enumeration
 |  |
