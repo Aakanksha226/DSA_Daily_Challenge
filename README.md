@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0072-edit-distance) |
+| [0647-palindromic-substrings](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1143-longest-common-subsequence) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0646-maximum-length-of-pair-chain) |
+| [0647-palindromic-substrings](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1143-longest-common-subsequence) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aakanksha226/DSA_Daily_Challenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Longest Common Subsequence
